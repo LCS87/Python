@@ -1,7 +1,10 @@
-📂 Scripts de Manipulação e Automação de Dados
-Este repositório contém diversos scripts Python voltados para manipulação, limpeza e automação de dados em arquivos Excel/CSV, além de integrações com sistemas externos. Cada script aborda um fluxo de trabalho específico, facilitando tarefas repetitivas e otimizando processos.
+## 📂 Scripts de Manipulação e Automação de Dados
+Este repositório contém diversos scripts Python voltados para manipulação, 
+limpeza e automação de dados em arquivos Excel/CSV, 
+além de integrações com sistemas externos. Cada script aborda um fluxo de trabalho específico, 
+facilitando tarefas repetitivas e otimizando processos.
 
-🚀 Funcionalidades Principais
+## 🚀 Funcionalidades Principais
 • 	Filtragem de dados: seleção de linhas e colunas com base em critérios definidos.
 • 	Remoção de duplicatas: eliminação de registros repetidos em planilhas.
 • 	Formatação de colunas: padronização de textos, números e datas.
@@ -11,7 +14,7 @@ Este repositório contém diversos scripts Python voltados para manipulação, l
 • 	Operações da área de transferência: copiar/colar dados entre sistemas.
 • 	Atualização de planilhas: inserção e modificação de dados em arquivos existentes.
 
-📌 Observações
+## 📌 Observações
 • 	Cada script é independente e pode ser utilizado separadamente.
 • 	Ajuste os parâmetros internos conforme suas necessidades (ex.: nomes de colunas, caminhos de arquivos, credenciais de banco).
 • 	Scripts de automação (Instagram, SQL Server) exigem configuração prévia de ambiente.
